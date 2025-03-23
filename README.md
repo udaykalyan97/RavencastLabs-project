@@ -171,3 +171,7 @@ This project is licensed under the MIT License.
 - 👤 Uday Kalyan
 - 📧 udaykalyan975@gmail.com
 - 🔗 https://github.com/udaykalyan97/
+
+## Screenshot
+
+![CryptoTrader Dashboard](screenshot.png)
