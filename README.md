@@ -174,4 +174,4 @@ This project is licensed under the MIT License.
 
 ## Screenshot
 
-![CryptoTrader Dashboard](screenshot.png)
+![CryptoTrader Dashboard](Screenshot.png)
